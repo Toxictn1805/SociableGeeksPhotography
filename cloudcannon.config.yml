@@ -4,7 +4,7 @@ paths:
   static: static
 collections_config:
   Galleries:
-    path: posts
+    path: /posts
     glob:
     name: Galleries
     singular_name:
@@ -18,8 +18,8 @@ collections_config:
       text:
       subtext:
       icon:
-      icon_color: black
-      image: /favicon.png
+      icon_color: 
+      image: 
       metadata:
       gallery:
     sort:
