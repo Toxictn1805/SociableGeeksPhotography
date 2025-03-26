@@ -18,8 +18,8 @@ collections_config:
       text:
       subtext:
       icon:
-      icon_color:
-      image:
+      icon_color: black
+      image: /favicon.png
       metadata:
       gallery:
     sort:
