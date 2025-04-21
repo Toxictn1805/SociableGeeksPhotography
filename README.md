@@ -1,2 +1,2 @@
 # SociableGeeks Photography
- Photography Site
+ Photography SIte
