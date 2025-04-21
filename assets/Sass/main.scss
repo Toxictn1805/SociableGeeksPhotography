@@ -1,7 +1,9 @@
 
 body {
     width: 75%;
-    margin: 0 auto;
+    margin: auto;
+    margin-top: 0%;
+    padding-top: 0%;
     font-family: sans-serif;
     background-color: #292929;
     color: #fff;
@@ -11,25 +13,25 @@ body {
     list-style: none;
     padding: 3px 5px;
     background: #111;
-  
+  }
     a {
       color: #fff;
-      text-decoration: none;
       padding-right: 1%;
-
-      &:visited {
-        color: #fff;
+      text-decoration-color: #fff;
+    }
+    a:visited {
+        text-decoration-color: #444;
       }
   
-      &:hover {
+      a:hover {
         text-decoration: underline;
       }
-    }
+    
   
-    li {
+    nav li {
       display: inline;
+      list-style: none;
     }
-  }
   
   footer {
     background: #f2f2f2;
