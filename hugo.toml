@@ -4,4 +4,4 @@ title = 'SociableGeeks Photography'
 
 [params]
 name = 'SociableGeeks Photography'
-favicon = "/favicon.png"
+favicon = '/static/images/favicon.png'
