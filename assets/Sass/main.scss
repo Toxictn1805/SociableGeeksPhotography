@@ -32,9 +32,14 @@ body {
     text-align: center;
   }
 
-img {
+img:not(.socials) {
     width: 33%;
     height: auto;
   }
+
+.socials {
+    width: auto;
+    height: 15px;
+}
 
   
