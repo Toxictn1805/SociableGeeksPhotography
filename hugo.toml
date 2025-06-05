@@ -1,7 +1,7 @@
 baseURL = "https://endless-squid.cloudvent.net/"
 languageCode = 'en-gb'
-title = 'SociableGeeks Photography'
+title = 'Sociable Geeks Photography'
 
 [params]
-name = 'SociableGeeks Photography'
+name = 'Sociable Geeks Photography'
 favicon = '/static/images/favicon.png'
