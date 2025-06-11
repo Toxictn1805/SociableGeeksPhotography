@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://endless-squid.cloudvent.net/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/</loc>
+    <loc>/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/posts/2024-05-12-vietnam/</loc>
+    <loc>/posts/2024-05-12-vietnam/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/posts/2022-04-03-i-like-to-roar/</loc>
+    <loc>/posts/2022-04-03-i-like-to-roar/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/posts/2022-04-02-today-i-made-friends/</loc>
+    <loc>/posts/2022-04-02-today-i-made-friends/</loc>
     <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/posts/2022-04-01-vegan-experiment/</loc>
+    <loc>/posts/2022-04-01-vegan-experiment/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/posts/2018-07-18-henry-graduation/</loc>
+    <loc>/posts/2018-07-18-henry-graduation/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://endless-squid.cloudvent.net/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
