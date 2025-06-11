@@ -5,6 +5,11 @@ body {
     font-family: sans-serif;
     background:#f3f3f3;
   }
+
+nav {
+  display: inline-table;
+  width: 100%;
+}
   
   nav ul {
     list-style: none;
@@ -31,18 +36,20 @@ body {
     padding: 2px 2px;
     font-size: .7em;
     text-align: center;
+    margin-bottom: 0;
   }
 
-img {
-    width: 33%;
-    height: auto;
-  }
+//img{
+    //width: 33%;
+    //height: auto;
+  //}
 
-.socials {
-    width: 64px;
-    height: auto;
+img .image-hover {
+  width:33%;
+  height: auto;
 }
 
-footer {
-  margin-top: auto;
+.socials {
+    padding-left: 80%;
+    //vertical-align: baseline;
 }
