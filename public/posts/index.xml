@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on Sociable Geeks Photography</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Gallery on Sociable Geeks Photography</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vietnam 2024</title>
-      <link>/posts/2024-05-12-vietnam/</link>
+      <link>//localhost:1313/posts/2024-05-12-vietnam/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/2024-05-12-vietnam/</guid>
-      <description>&lt;p&gt;Testing&lt;/p&gt;&#xA;&lt;div class=&#34;image-hover&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;/images/gallery/Vietnam/edited/1.jpg&#39; onmouseover=&#34;this.src=&#39;/images/gallery/Vietnam/1.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;/images/gallery/Vietnam/edited/1.jpg&#39;;&#34; alt=&#34;Vietnam-1&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;/images/gallery/Vietnam/edited/5.jpg&#39; onmouseover=&#34;this.src=&#39;/images/gallery/Vietnam/5.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;/images/gallery/Vietnam/edited/5.jpg&#39;;&#34; alt=&#34;Henry-5&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>//localhost:1313/posts/2024-05-12-vietnam/</guid>
+      <description>&lt;p&gt;Testing&lt;/p&gt;&#xA;&lt;div class=&#34;image-hover&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;//localhost:1313/images/gallery/Vietnam/edited/1.jpg&#39; onmouseover=&#34;this.src=&#39;//localhost:1313/images/gallery/Vietnam/1.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;//localhost:1313/images/gallery/Vietnam/edited/1.jpg&#39;;&#34; alt=&#34;Vietnam-1&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;//localhost:1313/images/gallery/Vietnam/edited/5.jpg&#39; onmouseover=&#34;this.src=&#39;//localhost:1313/images/gallery/Vietnam/5.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;//localhost:1313/images/gallery/Vietnam/edited/5.jpg&#39;;&#34; alt=&#34;Henry-5&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>I like to roar</title>
-      <link>/posts/2022-04-03-i-like-to-roar/</link>
+      <link>//localhost:1313/posts/2022-04-03-i-like-to-roar/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/2022-04-03-i-like-to-roar/</guid>
+      <guid>//localhost:1313/posts/2022-04-03-i-like-to-roar/</guid>
       <description>&lt;p&gt;Hi, quick update from me. I just want to let everyone know that I like roaring.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Today I made friends</title>
-      <link>/posts/2022-04-02-today-i-made-friends/</link>
+      <link>//localhost:1313/posts/2022-04-02-today-i-made-friends/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/2022-04-02-today-i-made-friends/</guid>
+      <guid>//localhost:1313/posts/2022-04-02-today-i-made-friends/</guid>
       <description>&lt;p&gt;I got lost in the woods today. Two friends, a Meerkat and a Warthog, found me,&#xA;sung a song with me and gave my life new meaning. Today was a good day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vegan experiment</title>
-      <link>/posts/2022-04-01-vegan-experiment/</link>
+      <link>//localhost:1313/posts/2022-04-01-vegan-experiment/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/2022-04-01-vegan-experiment/</guid>
+      <guid>//localhost:1313/posts/2022-04-01-vegan-experiment/</guid>
       <description>&lt;p&gt;I tried to become a vegan today. I made it to lunch time and couldn&amp;rsquo;t bear the&#xA;sight of another green leaf. Yuck!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Henry&#39;s Graduation</title>
-      <link>/posts/2018-07-18-henry-graduation/</link>
+      <link>//localhost:1313/posts/2018-07-18-henry-graduation/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/posts/2018-07-18-henry-graduation/</guid>
-      <description>&lt;img src=&#39;/images/gallery/Uni/edited/7.jpg&#39; onmouseover=&#34;this.src=&#39;/images/gallery/Uni/7.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;/images/gallery/Uni/edited/7.jpg&#39;;&#34; alt=&#34;Henry-7&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;&lt;div class=&#34;image-hover&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;/images/gallery/Uni/edited/4.jpg&#39; onmouseover=&#34;this.src=&#39;/images/gallery/Uni/4.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;/images/gallery/Uni/edited/4.jpg&#39;;&#34; alt=&#34;Henry-1&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;/images/gallery/Uni/edited/2.jpg&#39; onmouseover=&#34;this.src=&#39;/images/gallery/Uni/2.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;/images/gallery/Uni/edited/2.jpg&#39;;&#34; alt=&#34;Henry-2&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;/images/gallery/Uni/edited/3.jpg&#39; onmouseover=&#34;this.src=&#39;/images/gallery/Uni/3.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;/images/gallery/Uni/edited/3.jpg&#39;;&#34; alt=&#34;Henry-3&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;/images/gallery/Uni/edited/6.jpg&#39; onmouseover=&#34;this.src=&#39;/images/gallery/Uni/6.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;/images/gallery/Uni/edited/6.jpg&#39;;&#34; alt=&#34;Henry-6&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>//localhost:1313/posts/2018-07-18-henry-graduation/</guid>
+      <description>&lt;img src=&#39;//localhost:1313/images/gallery/Uni/edited/7.jpg&#39; onmouseover=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/7.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/edited/7.jpg&#39;;&#34; alt=&#34;Henry-7&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;&lt;div class=&#34;image-hover&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;//localhost:1313/images/gallery/Uni/edited/4.jpg&#39; onmouseover=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/4.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/edited/4.jpg&#39;;&#34; alt=&#34;Henry-1&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;//localhost:1313/images/gallery/Uni/edited/2.jpg&#39; onmouseover=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/2.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/edited/2.jpg&#39;;&#34; alt=&#34;Henry-2&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;//localhost:1313/images/gallery/Uni/edited/3.jpg&#39; onmouseover=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/3.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/edited/3.jpg&#39;;&#34; alt=&#34;Henry-3&#34;&gt;&#xD;&#xA;    &lt;img src=&#39;//localhost:1313/images/gallery/Uni/edited/6.jpg&#39; onmouseover=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/6.jpg&#39;;&#34; onmouseout=&#34;this.src=&#39;//localhost:1313/images/gallery/Uni/edited/6.jpg&#39;;&#34; alt=&#34;Henry-6&#34;&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
