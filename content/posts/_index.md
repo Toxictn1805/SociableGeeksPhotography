@@ -3,4 +3,3 @@ title: Gallery
 ---
 
 {{< instagram >}}
-{{< footer >}}
