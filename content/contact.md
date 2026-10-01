@@ -2,4 +2,3 @@
 title: Contact Me
 ---
 
-{{< contact >}}
